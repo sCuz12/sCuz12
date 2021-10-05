@@ -1,11 +1,11 @@
 ### Hello Folks 👋
 
-
-#### Personal Stuffs:
-- 🌱 I’m currently learning Algorithms and data structures ...
-- 📫 How to reach me: georgehadjisavvas12@gmail.com
-
-![](coding-animate.svg)
+<div>
+  #### Personal Stuffs:
+  - 🌱 I’m currently learning Algorithms and data structures ...
+  - 📫 How to reach me: georgehadjisavvas12@gmail.com
+</div>
+<img src="coding-animate.svg" width="250" height="250"/>
 
 <!--
 **sCuz12/sCuz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
