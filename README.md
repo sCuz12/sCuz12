@@ -1,13 +1,13 @@
 ### Hello Folks 👋
-<div class="col-sm-6">
-  <h3> Personal Stuffs :</h3>
-  <ul>
-    <li>🌱 I’m currently learning Algorithms and data structures .</li>
-    <li> 📫 How to reach me: georgehadjisavvas12@gmail.com </li>
-  </ul>
-</div>
+<p> Im George Hadjisavvas </p>
+<img src="coding-animate.svg" width="250" height="250" style="float:right"/>
+<h3> Personal Stuffs :</h3>
 
-<img src="coding-animate.svg" width="250" height="250"/>
+<ul>
+  <li>🌱 I’m currently learning Algorithms and data structures .</li>
+  <li> 📫 How to reach me: georgehadjisavvas12@gmail.com </li>
+</ul>
+
 
 <!--
 **sCuz12/sCuz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
