@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello Folks 👋
+
+#### Personal Stuffs:
+- 🌱 I’m currently learning Algorithms and data structures ...
+- 📫 How to reach me: georgehadjisavvas12@gmail.com
 
 <!--
 **sCuz12/sCuz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
