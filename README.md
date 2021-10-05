@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Algorithms and data structures ...
 - 📫 How to reach me: georgehadjisavvas12@gmail.com
 
-![]coding-animate.svg
+![](coding-animate.svg)
 
 <!--
 **sCuz12/sCuz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
