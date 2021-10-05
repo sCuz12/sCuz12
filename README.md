@@ -1,10 +1,12 @@
 ### Hello Folks 👋
-
-<div>
-  #### Personal Stuffs:
-  - 🌱 I’m currently learning Algorithms and data structures ...
-  - 📫 How to reach me: georgehadjisavvas12@gmail.com
+<div class="col-sm-6">
+  <h3> Personal Stuffs :</h3>
+  <ul>
+    <li>🌱 I’m currently learning Algorithms and data structures .</li>
+    <li> 📫 How to reach me: georgehadjisavvas12@gmail.com </li>
+  </ul>
 </div>
+
 <img src="coding-animate.svg" width="250" height="250"/>
 
 <!--
