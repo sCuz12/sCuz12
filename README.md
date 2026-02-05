@@ -17,11 +17,14 @@
 
 ### Current Projects
 
----
+----
 
 - 🧠 **[Problem Miner](https://problem-miner-landing.vercel.app/)** — AI-powered tool that extracts real SaaS problems from online communities.
 
 - 🔄 **Shopify ERP Sync Tool** — Multitenant Production-grade ERP ↔ Shopify sync tools (Powersoft, E-Soft).
 
 ### Legacy Projects
+
+----
+
 - ⚙️ **InvokeAPI** — Modular API toolbox for invoices, PDFs, async jobs, and webhooks.
