@@ -21,5 +21,5 @@
 
 - 🔄 **shopify-erp-sync tool ** — Multitenant Production-grade ERP ↔ Shopify sync tools (Powersoft, E-Soft).
 
-### OLD Projects
+### Legacy Projects
 - ⚙️ **InvokeAPI** — Modular API toolbox for invoices, PDFs, async jobs, and webhooks.
