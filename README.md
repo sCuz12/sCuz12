@@ -17,7 +17,7 @@
 
 ### Current Projects
 
---
+---
 
 - 🧠 **[Problem Miner](https://problem-miner-landing.vercel.app/)** — AI-powered tool that extracts real SaaS problems from online communities.
 
