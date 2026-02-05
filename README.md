@@ -1,32 +1,64 @@
-## Hello Folks, Im [George Hadjisavvas](https://georgehadjisavva.dev) 👋
+## 🚀 Current Projects
 
-[![alt text][1.1]][1]
+### 🛒 Shopify Stock Sync (Multi-Tenant)
+A production-ready **multi-tenant stock synchronization service** that keeps Shopify stores in sync with external ERP systems.
 
-<h3> Personal Stuffs :</h3>
-<img src="coding-animate.svg" width="250" height="250" style="float:right"/>
-<ul>
-  <li>🌱 I’m currently learning Algorithms and data structures .</li>
-  <li> 📫 How to reach me: georgehadjisavvas12@gmail.com </li>
-</ul>
+**What it does**
+- 🔄 Syncs inventory levels in near-real time  
+- 🧠 Intelligent diffing to avoid unnecessary updates  
+- 🏢 Supports **multiple Shopify stores (multi-tenant)**  
+- ⚡ Handles high-volume SKUs safely and efficiently  
+
+**Tech stack**
+- Golang
+- Shopify Admin API
+- PostgreSQL
+- Redis (queue & buffering)
+- Docker / Fly.io
+
+**Why it matters**
+> Built for agencies & businesses managing multiple stores that need **reliable, scalable stock updates** without manual work.
+
+---
+
+### 🧰 InvokeAPI (API Toolbox for Builders)
+A modular API platform offering ready-to-use endpoints for common tasks.
+
+**Features**
+- 📄 Invoice & PDF generation  
+- 🧩 PDF merge & processing jobs  
+- ⏱ Async job processing with status tracking  
+- 🔔 Webhook callbacks  
+
+**Tech**
+- Golang
+- PostgreSQL
+- Redis
+- Supabase storage
+
+---
+
+### 🧠 Problem Miner
+An AI-powered tool that scans forums (Reddit, communities) to extract **real problems people complain about** — built for indie hackers and founders.
+
+**Highlights**
+- Daily problem digests
+- Categorization & summarization
+- Token-based API access
+- Built-in validation for SaaS ideas
+
+---
 
 
-<!--Constants icons & urls -->
-[1]: http://www.twitter.com/sCuz123
-[1.1]: twitter.png
+---
 
+### 🧪 Open-Source & Experiments
+Smaller tools and experiments around:
+- Go concurrency patterns
+- Shopify integrations
+- Scrapers & aggregators
+- API design & async systems
 
+---
 
-
-
-<!-- **sCuz12/sCuz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💡 I love building **boring but valuable software**: APIs, sync engines, automation tools, and systems that quietly scale.
