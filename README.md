@@ -1,7 +1,19 @@
-## Current Projects
+## Hi I'm George
 
--  **Shopify Stock Sync (Multi-Tenant)** — High-performance inventory sync engine for **multiple Shopify stores** backed by external ERPs. Diff-based updates, safe batching, and production-grade reliability.
+📍 Cyprus ↔ Greece | 🧠 Systems-first backend builder | 🛠 Go · APIs · Shopify · Async systems
 
--  **InvokeAPI** — Modular API toolbox for builders: PDF generation, invoice creation, file processing, async jobs, webhooks, and usage tracking.
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=flat)
 
-- 🧠 **Problem Miner** — AI-powered problem discovery tool that scans communities (Reddit, forums) to extract **real user pain points** for SaaS founders.
+### Current Projects
+
+- 🧠 **[problem-miner](https://github.com/sCuz12/problem-miner)** — AI-powered tool that extracts real SaaS problems from online communities.
+
+- 🔄 **[shopify-erp-sync](https://github.com/sCuz12/shopify-erp-sync)** — Multitenant Production-grade ERP ↔ Shopify sync tools (Powersoft, E-Soft).
+
+### OLD Projects
+- ⚙️ **[invokeapi](https://github.com/sCuz12/invokeapi)** — Modular API toolbox for invoices, PDFs, async jobs, and webhooks.
