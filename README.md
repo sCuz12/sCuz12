@@ -17,7 +17,7 @@
 
 ### Current Projects
 
-- 🧠 **[Problem Miner](https://github.com/sCuz12/problem-miner)** — AI-powered tool that extracts real SaaS problems from online communities.
+- 🧠 **[Problem Miner](https://problem-miner-landing.vercel.app/)** — AI-powered tool that extracts real SaaS problems from online communities.
 
 - 🔄 **shopify-erp-sync tool ** — Multitenant Production-grade ERP ↔ Shopify sync tools (Powersoft, E-Soft).
 
