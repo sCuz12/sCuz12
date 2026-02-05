@@ -1,6 +1,6 @@
 
 
-## Hi I'm George
+# Hi I'm George
 
 📍 Cyprus ↔ Greece | 🧠 Systems-first backend builder | 🛠 Go · APIs · Shopify · Async systems
 
