@@ -23,6 +23,7 @@
 
 - 🔄 **Shopify ERP Sync Tool** — Multitenant Production-grade ERP ↔ Shopify sync tools (Powersoft, E-Soft).
 - **[CyPing](https://cy-ping-app.fly.dev/)** — Community-driven uptime & availability monitor for Cyprus public platforms
+- **[FONI](https://your-foni-link.com)** — Real-time public pulse platform that captures what people in Cyprus care about by aggregating live user signals into a dynamic “voice of the people”.
 
 ### Legacy Projects
 
