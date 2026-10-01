@@ -22,8 +22,6 @@
 - 🧠 **[Problem Miner](https://problem-miner-landing.vercel.app/)** — AI-powered tool that extracts real SaaS problems from online communities.
 
 - 🔄 **Shopify ERP Sync Tool** — Multitenant Production-grade ERP ↔ Shopify sync tools (Powersoft, E-Soft).
-- **[CyPing](https://cy-ping-app.fly.dev/)** — Community-driven uptime & availability monitor for Cyprus public platforms
-- **[FONI](https://foni-cy.fly.dev/)** — Real-time “public pulse” tool that tracks shifting priorities in Cyprus (housing, economy, corruption) through simple live voting and trend visualization.
 
 ### Legacy Projects
 
