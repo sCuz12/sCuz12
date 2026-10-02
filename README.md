@@ -2,7 +2,7 @@
 
 # Hi I'm George
 
-📍 Cyprus ↔ Greece | 🧠 Systems-first backend builder | 🛠 Go · APIs · Shopify · Async systems
+📍 Cyprus ↔ Greece | 🧠 Systems-first backend builder | 🛠 Go · APIs · Shopify · Scalable/Reliable systems
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
